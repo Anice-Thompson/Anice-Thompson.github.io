@@ -1,0 +1,44 @@
+ul {
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  
+  font-size: larger;
+  font-weight: bold;
+}
+
+li a {
+  float: left;
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+
+li span {
+  background: rgb(255, 255, 255);
+}
+
+p span {
+   background: rgb(255, 255, 255);
+}
+
+h1 {text-align: center;}
+h3 {text-align: center;} 
+
+.container {
+  width: auto;
+  height: auto;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+    background-image: url('./Images/Jobs_Background.png') ;
+}
