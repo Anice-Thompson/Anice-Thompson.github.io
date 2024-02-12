@@ -1,0 +1,119 @@
+  <!doctype html>
+
+<html>
+<head>
+  <link rel="stylesheet" href="facultystyles.css">
+  <ul>
+    <li><a href="../index.html">Home</a></li>
+  </ul>
+</head>
+<body>
+<div class= "container">
+    <h1> Meet Our Faculty and Staff! </h1>
+</div>
+<hr>
+<div class="row">
+  <div class="column">
+    <table style="width:50%" class="center">
+      <tr>
+        <th style="width:50%">Meet Red Guy!</th>
+      </tr>
+      <tr>
+        <th style="width:50%"> <img src="./Images/Red_Guy_in_Suit.jpg" alt="Red_Guy_in_Suit"> </th>
+      </tr>
+      <tr>
+        <td>Managing Director</td>
+      </tr>
+      <tr>
+        <td>Red Guy is the managing director and ensures everyone is doing their jobs. He makes sure the bits and parts we create are shipped daily and handles potential business partners and any logistics of manufacturing and selling bits and parts.</td>
+      </tr>
+    </table>
+  </div>
+  <div class="column">
+  <table style="width:50%" class="center">
+    <tr>
+      <th style="width:50%">Meet Yellow Guy!</th>
+    </tr>
+    <tr>
+      <th style="width:50%"> <img src="./Images/Yellow_Guy.jpg" alt="Yellow_Guy"> </th>
+    </tr>
+    <tr>
+      <td>Head Production Line Operative</td>
+    </tr>
+    <tr>
+      <td>Yellow Guy is the Head Production Line Operative and keeps all of the other Production Line Operatives in check. He also works closely with the Managing Director and provides any necessary updates on the production of bits and parts.</td>
+    </tr>
+  </table>
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+  <table style="width:50%" class="center">
+    <tr>
+      <th style="width:50%">Meet Duck!</th>
+    </tr>
+    <tr>
+      <th style="width:50%"> <img src="./Images/Duck.jpg" alt="Duck"> </th>
+    </tr>
+    <tr>
+      <td>Janitor</td>
+    </tr>
+    <tr>
+      <td>Duck is the Janitor. He maintains the cleanliness of the production line, bathrooms, eating area, and break room.</td>
+    </tr>
+  </table>
+  </div>
+  <div class="column">
+  <table style="width:50%" class="center">
+    <tr>
+      <th style="width:50%">Meet Andy!</th>
+    </tr>
+    <tr>
+      <th style="width:50%"> <img src="./Images/Andy.jpg" alt="Andy"> </th>
+    </tr>
+    <tr>
+      <td>Production Line Operative</td>
+    </tr>
+    <tr>
+      <td>Andy is a Production Line Operative. He does his job well!</td>
+    </tr>
+  </table>
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+    <table style="width:50%" class="center">
+    <tr>
+      <th style="width:50%">Meet Claire!</th>
+    </tr>
+    <tr>
+      <th style="width:50%"> <img src="./Images/Claire.jpg" alt="Claire"> </th>
+    </tr>
+    <tr>
+      <td>Production Line Operative</td>
+    </tr>
+    <tr>
+      <td>Claire is a Production Line Operative. She does her job well. She is also on her way to being promoted to Head Production Line Operative!</td>
+    </tr>
+  </table>
+  </div>
+  <div class="column">
+    <table style="width:50" class="center">
+    <tr>
+      <th style="width:50%">Meet Duncan!</th>
+    </tr>
+    <tr>
+      <th style="width:50%"> <img src="./Images/Duncan.jpg" alt="Duncan"> </th>
+    </tr>
+    <tr>
+      <td>Website Developer</td>
+    </tr>
+    <tr>
+      <td>Duncan is a Production Line Operative.</td>
+    </tr>
+  </table>
+  </div>
+</div>
+</body>
+
+</html>
