@@ -39,6 +39,8 @@ h3 {text-align: center;}
   align-items: center;
 }
 
+.ignore-css{all:unset;}
+
 body {
     background-image: url('./Images/Jobs_Background.png') ;
 }
